@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://admin_1:user123@kaffeehaus.2tixt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://admin_1:user123@kaffeehaus.2tixt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "newsecret"
 }
